@@ -24,7 +24,7 @@ module.exports = {
     socialLinks: [
       {
         name: `Email`,
-        link: `fake@email.com`,
+        link: `wisdom4judah@gmail.com`,
         location: `footer`, //Options are "all", "header", "footer"
       },
       
